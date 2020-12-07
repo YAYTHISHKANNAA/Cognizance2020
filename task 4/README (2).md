@@ -18,7 +18,7 @@
 * DIY crafts
 * Some aquarium ideas
 ---
-![MY CHANNEL LOGO](file:///C:/Users/admin/Downloads/123.html)
+![MY CHANNEL LOGO](https://drive.google.com/file/d/1FpJyTLTwfZwNFppjL9OE329FZbafvrqM/view?usp=sharing)
 ---
 ---
 ## YOU CAN GET VIDEOS REGULARLY SO DO SUBSCRIBING MY CHANNEL.

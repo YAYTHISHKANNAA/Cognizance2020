@@ -1,0 +1,19 @@
+ALGORIHM AND PSEUDOCODE TO FIND ODD OR EVEN NUNBERS
+
+ALGORITHM
+
+Step 1: Start.
+Step 2: Read the number “n”
+Step 3: If n%2==0 then the number is even else the number is odd.
+Step 4: Stop.
+
+PSEUDOCODE
+
+BEGIN
+READ N
+IF N%2==0 THEN
+PRINT EVEN
+ELSE
+PRINT ODD
+ENDIF
+END

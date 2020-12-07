@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="admin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-16 02:22:39 PM"/>
+        <attribute name="created" value="YWRtaW47REVTS1RPUC00TTRWMlIwOzIwMjAtMTEtMTY7MDI6MTM6MjAgUE07MjgxNg=="/>
+        <attribute name="edited" value="YWRtaW47REVTS1RPUC00TTRWMlIwOzIwMjAtMTEtMTY7MDI6MjI6MzkgUE07MTsyOTM0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="age" type="Integer" array="False" size=""/>
+            <input variable="age"/>
+            <if expression="age&gt;=18">
+                <then>
+                    <output expression="&quot;the person is eligible to vote&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;the person is not eligible to vote&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

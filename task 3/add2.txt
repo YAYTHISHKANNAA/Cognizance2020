@@ -1,1 +1,19 @@
-fefeg
+THE ALGORITHM AND PSEUDOCODE TO CHECK WHETHER ELIGIBLE FOR VOTING 
+
+ALGORITHM
+
+Step 1: Start
+Step 2: Read the value of age.
+Step 3: If the value of age>=18 then print that the person is eligible to vote else the person is not eligible to vote.
+Step 4: Stop.
+
+PSEUDOCODE
+
+BEGIN
+READ AGE
+IF AGE>=10
+PRINT THE PERSON IS ELIGIBLE TO VOTE
+ELSE
+PRINT THE PERSON IS NOT ELIGIBE TO VOTE
+ENDIF
+END

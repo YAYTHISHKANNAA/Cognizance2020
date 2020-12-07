@@ -1,0 +1,23 @@
+
+Algorithm and pseudocode o find Greatest of three numbers.
+
+ALGORITHM
+
+Step 1: Start.
+Step 2: Read the value of the three numbers A,B,C.
+Step 3: If A>B is true then check whether A>C if it is also true then display that A                  is the greatest number or display that C is the greatest number.
+Step 4: Now if A>B is false then check whether B>C is also false then display that C is the greatest number or display that B is the greatest number.
+Step 5: Stop.
+
+PSEUDOCODE
+
+BEGIN
+GET A,B,C
+IF A>B AND A>C THEN
+  PRINT A
+ELSE B>C THEN
+  PRINT B
+ELSE 
+  PRINT C
+ENDIF
+END
